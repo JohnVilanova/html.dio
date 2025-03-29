@@ -1,2 +1,2 @@
 # html.dio
-Curso de HTML
+Curso de HTML na plataforma DIO
